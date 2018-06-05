@@ -41,4 +41,5 @@ def play(board)
   until input == 8
     turn(board)
     input += 1
+  end
 end
